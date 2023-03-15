@@ -1,4 +1,4 @@
-# Simple-Banking-System
+# Simple Banking System
 This is a C++ program that simulates a simple banking system that allows users to transfer money between their savings and checking accounts. Here is a brief summary of how the program works:
 
 
